@@ -1,0 +1,14 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+:root {
+  --background: radial-gradient(ellipse at center, #38495a 10%, #090a0f 100%);
+}
+
+html {
+  height: 100%;
+  background: var(--background);
+  overflow: hidden;
+}
