@@ -3,11 +3,11 @@
 ![Final App](./src/memory.gif)
 
 ## Deployed live version:
-[play game](https://.vercel.app/)
+[play game](https://memory-game-chi-gilt.vercel.app/)
 
 ## Description
 
-- Simple memory game made with useState and useEffect hooks combined with css transitio to flip cards and match them 
+- Simple memory game made with useState and useEffect hooks combined with CSS transitions to flip cards and match them 
 
 ## Basic features of this app:
 
